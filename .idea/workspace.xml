@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a8598ed-c146-42f1-98c5-f19d2b2ae529" name="Changes" comment="Added pictures to show on web application" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gEmQw2pH5aHmVvA8ILWfsFriY3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Prylorian/WebstormProjects/ecommerce-project",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Prylorian\WebstormProjects\database_project\frontend\src\contexts" />
+      <recent name="C:\Users\Prylorian\WebstormProjects\database_project\frontend\public\images" />
+      <recent name="C:\Users\Prylorian\WebstormProjects\database_project\frontend\public\images\featured_products" />
+      <recent name="C:\Users\Prylorian\WebstormProjects\database_project\frontend\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="database_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="C:\Users\Prylorian\anaconda3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8598ed-c146-42f1-98c5-f19d2b2ae529" name="Changes" comment="" />
+      <created>1715271100171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715271100171</updated>
+      <workItem from="1715271102736" duration="394000" />
+      <workItem from="1715271514173" duration="21000" />
+      <workItem from="1715271535762" duration="27000" />
+      <workItem from="1715316780120" duration="383000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added react-router-dom to connect to Flask backend">
+      <option name="closed" value="true" />
+      <created>1715273279980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273279980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Home, Products, Orders, Header, and Footer components to App.js">
+      <option name="closed" value="true" />
+      <created>1715273316629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273316629</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created Home.js file">
+      <option name="closed" value="true" />
+      <created>1715273325716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273325716</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created Footer.js file">
+      <option name="closed" value="true" />
+      <created>1715273332793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273332793</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created Header.js file">
+      <option name="closed" value="true" />
+      <created>1715273339537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273339537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created Orders.js file">
+      <option name="closed" value="true" />
+      <created>1715273345666</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273345666</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created Products.js file">
+      <option name="closed" value="true" />
+      <created>1715273352477</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273352477</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added .idea to .gitignore">
+      <option name="closed" value="true" />
+      <created>1715310547235</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310547236</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Deleted Orders.js and Products.js">
+      <option name="closed" value="true" />
+      <created>1715310606856</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310606856</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Implemented App.js">
+      <option name="closed" value="true" />
+      <created>1715310630834</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310630834</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Implemented Header.js">
+      <option name="closed" value="true" />
+      <created>1715310665239</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310665239</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Implemented Header.css">
+      <option name="closed" value="true" />
+      <created>1715310673389</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310673389</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Implemented Home.js">
+      <option name="closed" value="true" />
+      <created>1715310681800</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310681800</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Implemented Home.css">
+      <option name="closed" value="true" />
+      <created>1715310688527</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310688527</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Implemented Footer.js">
+      <option name="closed" value="true" />
+      <created>1715310701116</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310701116</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Implemented Footer.css">
+      <option name="closed" value="true" />
+      <created>1715310707782</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310707782</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Implemented FeaturedProducts.js">
+      <option name="closed" value="true" />
+      <created>1715310725405</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310725405</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Implemented FeaturedProducts.css">
+      <option name="closed" value="true" />
+      <created>1715310731876</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310731876</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Implemented ProductDetails.js">
+      <option name="closed" value="true" />
+      <created>1715310754706</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310754706</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Implemented ProductDetails.css">
+      <option name="closed" value="true" />
+      <created>1715310762965</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310762965</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Implemented Navigation.js">
+      <option name="closed" value="true" />
+      <created>1715310774553</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310774553</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Implemented Navigation.css">
+      <option name="closed" value="true" />
+      <created>1715310781254</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310781254</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Implemented CategoryProducts.js">
+      <option name="closed" value="true" />
+      <created>1715310793826</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310793826</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Implemented CategoryProducts.css">
+      <option name="closed" value="true" />
+      <created>1715310800571</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310800571</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Implemented Carousel.js">
+      <option name="closed" value="true" />
+      <created>1715310816223</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310816223</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Implemented Carousel.css">
+      <option name="closed" value="true" />
+      <created>1715310822195</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310822195</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Implemented SearchResults.js">
+      <option name="closed" value="true" />
+      <created>1715310837662</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310837662</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Implemented SearchResults.css">
+      <option name="closed" value="true" />
+      <created>1715310843689</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310843689</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Created SignIn.js">
+      <option name="closed" value="true" />
+      <created>1715310857370</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310857370</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Implemented NotFound.js">
+      <option name="closed" value="true" />
+      <created>1715310870041</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310870041</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Implemented NotFound.css">
+      <option name="closed" value="true" />
+      <created>1715310876461</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310876461</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Implemented CartContext.js">
+      <option name="closed" value="true" />
+      <created>1715310891668</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310891668</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Implemented Cart.js">
+      <option name="closed" value="true" />
+      <created>1715310901138</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310901138</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Implemented Cart.css">
+      <option name="closed" value="true" />
+      <created>1715310908428</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310908428</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Created Checkout.js">
+      <option name="closed" value="true" />
+      <created>1715310924950</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310924950</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added CORS to category.py">
+      <option name="closed" value="true" />
+      <created>1715310949293</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310949293</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added CORS to brand.py">
+      <option name="closed" value="true" />
+      <created>1715310961016</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310961016</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added FontAwesome to package.json">
+      <option name="closed" value="true" />
+      <created>1715310980015</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310980015</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added FontAwesome to package-lock.json">
+      <option name="closed" value="true" />
+      <created>1715310990391</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1715310990391</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added CORS to product.py">
+      <option name="closed" value="true" />
+      <created>1715311022634</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1715311022634</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Created get_products_by_category and search_products routes in product.py">
+      <option name="closed" value="true" />
+      <created>1715311058708</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1715311058708</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added pictures to show on web application">
+      <option name="closed" value="true" />
+      <created>1715311079585</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1715311079585</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented FeaturedProducts.css" />
+    <MESSAGE value="Implemented ProductDetails.js" />
+    <MESSAGE value="Implemented ProductDetails.css" />
+    <MESSAGE value="Implemented Navigation.js" />
+    <MESSAGE value="Implemented Navigation.css" />
+    <MESSAGE value="Implemented CategoryProducts.js" />
+    <MESSAGE value="Implemented CategoryProducts.css" />
+    <MESSAGE value="Implemented Carousel.js" />
+    <MESSAGE value="Implemented Carousel.css" />
+    <MESSAGE value="Implemented SearchResults.js" />
+    <MESSAGE value="Implemented SearchResults.css" />
+    <MESSAGE value="Created SignIn.js" />
+    <MESSAGE value="Implemented NotFound.js" />
+    <MESSAGE value="Implemented NotFound.css" />
+    <MESSAGE value="Implemented CartContext.js" />
+    <MESSAGE value="Implemented Cart.js" />
+    <MESSAGE value="Implemented Cart.css" />
+    <MESSAGE value="Created Checkout.js" />
+    <MESSAGE value="Added CORS to category.py" />
+    <MESSAGE value="Added CORS to brand.py" />
+    <MESSAGE value="Added FontAwesome to package.json" />
+    <MESSAGE value="Added FontAwesome to package-lock.json" />
+    <MESSAGE value="Added CORS to product.py" />
+    <MESSAGE value="Created get_products_by_category and search_products routes in product.py" />
+    <MESSAGE value="Added pictures to show on web application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pictures to show on web application" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/database_project$main.coverage" NAME="main Coverage Results" MODIFIED="1715304545539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

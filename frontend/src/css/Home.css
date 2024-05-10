@@ -1,0 +1,9 @@
+/* Home.css */
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+/* Add more styling as needed for spacing and alignment */

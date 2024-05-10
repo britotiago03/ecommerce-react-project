@@ -1,0 +1,86 @@
+/* Header.css */
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 40px;
+    background-color: #373737;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.logo a {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    margin: 0 40px;
+    flex-grow: 1;
+}
+
+.search-bar input[type="text"] {
+    flex-grow: 1;
+    padding: 12px;
+    border: none;
+    font-size: 15px;
+}
+
+.brand-select {
+    padding: 11px 16px;
+    cursor: pointer;
+    border-radius: 4px 0 0 4px;
+    border: none;
+    font-size: 15px;
+    background: #EDEDED;
+}
+
+.search-bar button {
+    padding: 9px 12px;
+    background-color: #B4F1FF;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+.search-bar i {
+    font-size: 23px;
+    color: #373737;
+}
+
+.user-controls {
+    display: inline-flex;
+}
+
+.user-controls a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: #fff;
+}
+
+.user-controls i {
+    font-size: 25px;
+    color: #fff;
+}
+
+.user-controls span {
+    font-size: 16px;
+}
+
+/* Add additional styles as needed */
+.signin-button {
+    align-items: center;
+    padding: 0 50px 0 0;
+}
+
+.cart-button {
+    align-items: center;
+    padding: 0 10px 0 0;
+}

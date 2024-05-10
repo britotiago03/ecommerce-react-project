@@ -1,0 +1,23 @@
+.category-nav {
+    display: flex; /* Makes the nav container a flex container */
+    justify-content: center; /* Centers items along the main axis */
+    align-items: center; /* Aligns items along the cross axis */
+    padding: 15px 0; /* Gives some padding around the nav */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0; /* Removes default padding */
+    margin: 0; /* Removes default margin */
+    display: flex; /* Makes the ul a flex container */
+    align-items: center; /* Aligns items vertically */
+}
+
+nav ul li {
+    padding: 0 15px; /* Adjusts padding for spacing between items */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}

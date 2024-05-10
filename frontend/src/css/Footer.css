@@ -1,0 +1,23 @@
+/* Footer.css */
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 25px 40px;
+    background-color: #373737;
+    color: #fff;
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.1); /* Shadow appears at the top of the footer */
+}
+
+footer a {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+footer p {
+    font-size: 16px;
+    margin: 0 15px;
+}

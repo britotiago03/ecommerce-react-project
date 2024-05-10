@@ -1,0 +1,24 @@
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh; /* Adjust the height based on your header and footer */
+    text-align: center;
+}
+
+.not-found-container h1 {
+    font-size: 80px;
+    color: #007BFF;
+}
+
+.not-found-container h2 {
+    font-size: 36px;
+    color: #333;
+}
+
+.not-found-container p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 20px;
+}

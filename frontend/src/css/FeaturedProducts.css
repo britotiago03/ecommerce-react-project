@@ -1,0 +1,48 @@
+/* FeaturedProducts.css */
+.featured-products {
+    margin: 20px;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box; /* Include padding and border in the element's width */
+}
+
+.featured-products h2 {
+    text-align: center;
+}
+
+.product-list {
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    flex-wrap: wrap; /* Allow items to wrap onto the next line as needed */
+    gap: 20px; /* Spacing between each product */
+}
+
+.product {
+    display: flex;
+    flex-direction: column; /* Arrange content vertically */
+    align-items: center; /* Center-align the items */
+    width: 200px; /* Set a fixed width for each product */
+    height: 300px; /* Set a fixed height for each product */
+    padding: 10px;
+    box-sizing: border-box; /* Ensures padding is included in the width/height */
+}
+
+.product img {
+    width: 100%; /* Make the image take up the entire width of the product div */
+    height: 140px; /* Fixed height for the image */
+    object-fit: contain; /* Ensures the image fits well within the dimensions without stretching */
+}
+
+.product h3 {
+    margin: 10px 0;
+    text-align: center; /* Center-align the product names */
+    height: 40px; /* Fixed height for the product name */
+    overflow: hidden; /* Prevents text from overflowing */
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Limits text to two lines */
+    -webkit-box-orient: vertical;
+}
+
+.product p {
+    margin-top: auto; /* Pushes the price to the bottom of the container */
+}
