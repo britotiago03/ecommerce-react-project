@@ -8,8 +8,8 @@ def db_connection():
     """
     return mysql.connector.connect(
         host="localhost",  # Specifies the host server where the MySQL database is running, 'localhost' indicates the database is on the same machine.
-        user="root",       # Specifies the username to log into the MySQL database, 'root' is the default superuser with all privileges.
-        password="",       # Specifies the password for logging into the MySQL database, empty here for simplicity.
+        user="admin",       # Specifies the username to log into the MySQL database, 'root' is the default superuser with all privileges.
+        password="Admin123",       # Specifies the password for logging into the MySQL database, empty here for simplicity.
         database="electromart_databaseproject",  # Specifies the specific database name to connect to within the MySQL server.
         buffered=True      # Ensures that query results are immediately transferred from the server to avoid the 'Unread result found' error.
     )
